@@ -1,1 +1,1 @@
-# libftmac
+# libft
